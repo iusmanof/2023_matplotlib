@@ -17,6 +17,6 @@ ax.set_ylabel("Square of value", fontsize=14)
 
 ax.tick_params(axis='both', which='major', labelsize=14)
 
-#plt.show()
-plt.savefig('sq.png')
+plt.show()
+# plt.savefig('sq.png')
 # plt.savefig('sq.png', bbox_inches='tight')
